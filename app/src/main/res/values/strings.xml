@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TpMoyenne</string>
+    <string name="exam">Examen :</string>
+    <string name="Tp">TP :</string>
+    <string name="Td">TD :</string>
+    <string name="module">Le Module :</string>
+    <string name="str_message">Votre Moyenne dans Ce Module est : %f</string>
+    <string name="msg_title">la Moyenne de ce module</string>
+    <string-array name="modules">
+        <item>Genie Logiciel 2</item>
+        <item>Intelligence Artificielle</item>
+        <item>IHM</item>
+        <item>Systeme D'Exploitation 2</item>
+        <item>Paradigme de Programmation</item>
+    </string-array>
+</resources>
